@@ -1,2 +1,2 @@
 <?php 
-header('Location: https://telegram.me/xcsgobot');
+header('Location: https://telegram.me/peppav3bot');
